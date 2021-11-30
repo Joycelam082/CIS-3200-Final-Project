@@ -1,5 +1,4 @@
 # CIS-3200-Final-Project
-# Data Processing and Analytics
 This repository contains instructions and requirements for lab activities in the Data Processing and Analytics course.
 
 ## Install Pandas
